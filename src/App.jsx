@@ -1,3 +1,4 @@
+
 import React, { useEffect, useState, useRef } from "react";
 import Marquee from "react-fast-marquee";
 import Logo from "./assets/imgs/Logo2.svg";
